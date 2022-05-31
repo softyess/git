@@ -1,1 +1,11 @@
-
+{
+  "Bug_id": 1,
+  "Title": "The SAVE DATA button is smaller than the others",
+  "Severity": "Trivial",
+  "Priority": "Low",
+  "Environment": "1)Samsung Galaxy S9+,  Android 10",
+  "Precondition": ["1. Open the app"],
+  "STR":  ["1. Check the UI"],
+  "AR": "The “SAVE DATA” button is smaller than the others",
+  "ER": " The application buttons have one view"
+}
